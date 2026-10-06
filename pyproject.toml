@@ -13,7 +13,9 @@ dependencies = [
     "requests",
     "python-dotenv",
     "langchain",
-    "langchain-anthropic"
+    "langchain-anthropic",
+    "pinecone",
+    "voyageai",
 ]
 
 [tool.setuptools.packages.find]
